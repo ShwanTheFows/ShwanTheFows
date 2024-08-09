@@ -24,12 +24,12 @@
 
 <br>
 <a href="https://github.com/shwanthefows">
-<img src="[https://lanyard-profile-readme.vercel.app/api/633772744483274793](https://lanyard.cnrad.dev/api/294928620877774848)"/>
+  <img src="[https://lanyard-profile-readme.vercel.app/api/633772744483274793](https://lanyard.cnrad.dev/api/294928620877774848)"/>
 </a>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shwanthefows" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shwanthefows" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwanthefows&show_icons=true&locale=en" alt="shwanthefows" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en" alt="shwanthefows" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwanthefows&" alt="shwanthefows" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwanthefows&theme=chartreuse-dark" alt="shwanthefows" /></p>
