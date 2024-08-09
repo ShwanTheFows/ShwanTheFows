@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Braymi Taha</h1>
 <h3 align="center">1337 Computer science student from morocco</h3>
 
-<a href="https://github.com/shwanthefows">
-<img src="https://lanyard.cnrad.dev/api/294928620877774848"/>
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwanthefows&label=Profile%20views&color=0e75b6&style=flat" alt="shwanthefows" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shwanthefows" target="blank"><img src="https://img.shields.io/twitter/follow/shwanthefows?logo=twitter&style=for-the-badge" alt="shwanthefows" /></a> </p>
+
+<a align="center" href="https://github.com/shwanthefows">
+<img src="https://lanyard.cnrad.dev/api/294928620877774848"/>
+</a>
 
 - 🌱 I’m currently learning **Reverse engineering**
 
