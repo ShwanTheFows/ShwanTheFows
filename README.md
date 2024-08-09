@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Braymi Taha</h1>
+<h1 align="center">Hi 👋, I'm Taha Braymi</h1>
 <h3 align="center">1337 Computer science student from morocco</h3>
 
 
