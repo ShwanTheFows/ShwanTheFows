@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Braymi Taha</h1>
-<h3 align="center">A passionate Computer science student from morocco</h3>
+<h3 align="center">1337 Computer science student from morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwanthefows&label=Profile%20views&color=0e75b6&style=flat" alt="shwanthefows" /> </p>
 
@@ -10,6 +10,10 @@
 - 📫 How to reach me **tahabraymi@gmail.com**
 
 - ⚡ **Jack of all trades, master of all**
+
+<a href="https://github.com/shwanthefows">
+<img src="https://lanyard.cnrad.dev/api/294928620877774848"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
