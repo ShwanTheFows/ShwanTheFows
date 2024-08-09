@@ -15,8 +15,8 @@
 <img src="https://lanyard.cnrad.dev/api/294928620877774848"/>
 </a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en" alt="shwanthefows" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shwanthefows" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en" alt="shwanthefows" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shwanthefows" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwanthefows&theme=chartreuse-dark" alt="shwanthefows" /></p>
 
