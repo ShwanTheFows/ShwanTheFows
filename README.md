@@ -12,7 +12,7 @@
 - ⚡ **Jack of all trades, master of all**
 
 <a href="https://github.com/shwanthefows">
-<img src="https://lanyard.cnrad.dev/api/294928620877774848"/>
+<img src="https://lanyard.cnrad.dev/api/294928620877774848"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shwanthefows" />
 </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en" alt="shwanthefows" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwanthefows&theme=chartreuse-dark" alt="shwanthefows" /></p>
@@ -20,7 +20,7 @@
 
 <p></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shwanthefows" /></p>
+<p></p>
 
 
 <h3 align="left">Connect with me:</h3>
