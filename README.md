@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/shwanthefows" target="blank"><img src="https://img.shields.io/twitter/follow/shwanthefows?logo=twitter&style=for-the-badge" alt="shwanthefows" /></a> </p>
 
 <a align="center" href="https://github.com/shwanthefows">
-<img src="https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light"/>
+<img src="https://lanyard-profile-readme.vercel.app/api/294928620877774848?hideBadges=false"/>
 </a>
 
 - 🌱 I’m currently learning **Reverse engineering**
