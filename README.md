@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tahabraymi@gmail.com**
 
-- ⚡ Fun fact **Jack of all trades, master of all**
+- ⚡ **Jack of all trades, master of all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
