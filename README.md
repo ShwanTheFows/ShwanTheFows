@@ -17,12 +17,6 @@
 - ⚡ **Jack of all trades, master of all**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en" alt="shwanthefows" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwanthefows&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shwanthefows" /></p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shwanthefows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shwanthefows" height="30" width="40" /></a>
